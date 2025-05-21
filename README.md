@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Luis Laurente
 
-<!--
-**LuisLaurente/LuisLaurente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Backend apasionado por Laravel, APIs REST y la automatización de procesos. Actualmente explorando Kubernetes y CI/CD.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP / Laravel
+- Blade / CSS
+- MySQL / PostgreSQL
+- Git / GitHub Actions
+
+## 📫 Conecta conmigo
+
+- LinkedIn: https://www.linkedin.com/in/luis-laurente/
+- Portafolio: https://portafolioluislaurente.netlify.app/
