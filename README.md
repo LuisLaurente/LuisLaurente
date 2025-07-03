@@ -12,4 +12,5 @@ Desarrollador Backend apasionado por Laravel, APIs REST y la automatización de 
 ## 📫 Conecta conmigo
 
 - LinkedIn: https://www.linkedin.com/in/luis-laurente/
-- Portafolio: https://portafolioluislaurente.netlify.app/
+- Portafolio: https://laurentz.dev
+  
