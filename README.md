@@ -1,13 +1,15 @@
 # 👋 ¡Hola! Soy **Luis Laurente**
 
-## 📊 GitHub Stats
-
-![Luis Laurente GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisLaurente&theme=dark&show_icons=true)
-
-## 💻 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLaurente&theme=dark&layout=compact)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LuisLaurente&theme=dark&show_icons=true&hide=languages" alt="Luis Laurente GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLaurente&theme=dark&layout=compact" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 🎯 *Backend Developer* apasionado por la creación de soluciones eficientes, escalables y bien estructuradas. Me especializo en **Laravel**, el desarrollo de **APIs REST**, y la **automatización de procesos** para ahorrar tiempo y mejorar flujos de trabajo.  
 🚀 Actualmente explorando **Kubernetes** y prácticas modernas de **CI/CD**.
@@ -47,4 +49,3 @@
 ---
 
 > 💡 *"La mejor manera de predecir el futuro es programarlo."*
-
