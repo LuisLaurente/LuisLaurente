@@ -3,15 +3,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LuisLaurente&theme=dark&show_icons=true&hide=languages" alt="Luis Laurente GitHub Stats" />
+      <img src="https://streak-stats.demolab.com?user=LuisLaurente&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLaurente&theme=dark&layout=compact" alt="Top Langs" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=LuisLaurente&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
