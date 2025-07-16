@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Soy **Luis Laurente**
 
-![Luis Laurente GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurentzdev&theme=dark&show_icons=true)
+## 📊 GitHub Stats
+
+![Luis Laurente GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisLaurente&theme=dark&show_icons=true)
 
 
 🎯 *Backend Developer* apasionado por la creación de soluciones eficientes, escalables y bien estructuradas. Me especializo en **Laravel**, el desarrollo de **APIs REST**, y la **automatización de procesos** para ahorrar tiempo y mejorar flujos de trabajo.  
