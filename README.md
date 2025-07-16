@@ -9,6 +9,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLaurente&theme=dark&layout=compact" alt="Top Langs" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=LuisLaurente&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
 </table>
 
 🎯 *Backend Developer* apasionado por la creación de soluciones eficientes, escalables y bien estructuradas. Me especializo en **Laravel**, el desarrollo de **APIs REST**, y la **automatización de procesos** para ahorrar tiempo y mejorar flujos de trabajo.  
